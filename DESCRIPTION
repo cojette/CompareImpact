@@ -1,0 +1,10 @@
+Package: CompareImpact
+Type: Package
+Title: Measuring & comparing time-series effect with bayesian prediction modeling
+Version: 0.1
+Date: 2015-06-25
+Authors@R: person("JeongMin", "Kwon", email = 'cojette@gmail.com', role = c("aut", "cre"))
+Description: Integrates multivariate testing and a Bayesian time series prediction model to measure and compare casual inferences of events.
+License: Apache License 2.0 | file LICENSE
+Imports: devtools, dplyr, ggplot2, zoo, bsts, assertthat,plyr,CausalImpact
+Depends: R (>= 3.2.0)
