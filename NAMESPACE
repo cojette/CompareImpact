@@ -1,7 +1,6 @@
 export(CompareImpact)
 export(CreateCompImpPlot)
 
-import(CausalImpact)
 import(assertthat)
 import(dplyr)
 import(bsts)
