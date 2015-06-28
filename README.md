@@ -60,12 +60,16 @@ The return value is a list of `CausalImpact` objects. You can see the detail of 
 
 The easiest way of visualizing the results is to use the `CreateCompImpPlot()` function that is part of the package:
 ```{r, fig.width=8, fig.height=6, eval=FALSE}
-## plot
+
 CreateCompImpPlot(ci1)
 
 ```
 
-You can control details with ggplot2 package functions. You can refer plot() of CausalImpact package for the detailed interpretation of the plot 
+You can control details with ggplot2 package functions. You can refer plot() of CausalImpact package for the detailed interpretation of the plot. 
+
+### Note
+I would appreciate to discuss any aspects of this work (cojette@gmail.com).
+
 
 ## Example Site
 [CompareImpact Sample Shiny Site](https://cojette.shinyapps.io/CompareImpactDash)
