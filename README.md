@@ -68,7 +68,7 @@ CreateCompImpPlot(ci1)
 You can control details with ggplot2 package functions. You can refer plot() of CausalImpact package for the detailed interpretation of the plot. 
 
 ### Note
-I would appreciate to discuss any aspects of this work (cojette@gmail.com).
+CompareImpact package will be updated. And I would appreciate to discuss any aspects of this work (cojette@gmail.com).
 
 
 ## Example Site
