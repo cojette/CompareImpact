@@ -22,7 +22,8 @@ Sub-Functions:  CreateCompImpPlot()
 To install `CompareImpact`, type the following commands into an R session:
 
 ```{r, eval=FALSE}
-
+## install from github
+devtools::install_github("google/Causalmpact")
 
 devtools::install_github("cojette/CompareImpact")
 ```
